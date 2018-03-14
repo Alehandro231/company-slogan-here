@@ -28,7 +28,7 @@ body {
     margin: 0 auto;
 }
 
-.header {
+header {
     padding: 26px 0 0 0;
     margin-bottom: 17px;
 }
@@ -120,7 +120,7 @@ body {
     font-family: Georgia, "Times New Roman", Times, Serif;
 }
 
-.footer {
+footer {
     padding: 15px 0 42px 0;
     color: rgba(95, 93, 103, 0.5);
 }
